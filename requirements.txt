@@ -1,0 +1,5 @@
+ollama==0.4.7
+qdrant-client==1.12.1
+duckduckgo-search==6.3.7
+pyyaml==6.0.2
+pytest==8.3.4
